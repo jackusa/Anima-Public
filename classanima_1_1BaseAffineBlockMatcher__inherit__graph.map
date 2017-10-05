@@ -1,0 +1,6 @@
+<map id="anima::BaseAffineBlockMatcher&lt; TInputImageType &gt;" name="anima::BaseAffineBlockMatcher&lt; TInputImageType &gt;">
+<area shape="rect" id="node3" href="$classanima_1_1AnatomicalBlockMatcher.html" title="anima::AnatomicalBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="476,5,684,47"/>
+<area shape="rect" id="node4" href="$classanima_1_1MCMBlockMatcher.html" title="anima::MCMBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="493,71,667,112"/>
+<area shape="rect" id="node5" href="$classanima_1_1TensorBlockMatcher.html" title="anima::TensorBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="489,136,671,177"/>
+<area shape="rect" id="node2" href="$classanima_1_1BaseBlockMatcher.html" title="anima::BaseBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="5,71,177,112"/>
+</map>

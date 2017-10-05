@@ -1,0 +1,55 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classanima_1_1CheckStructureNeighborFilter.html" title="Class removing lesions that are not sufficiently in the white matter. Intensity rules may not be enou..." alt="" coords="214,5,425,47"/>
+<area shape="rect" id="node3" href="$classanima_1_1ComputeMahalanobisImagesFilter.html" title="Compute the mahalanobis images from the NABT model. " alt="" coords="226,70,413,126"/>
+<area shape="rect" id="node4" href="$classanima_1_1DistortionCorrectionImageFilter.html" title="anima::DistortionCorrection\lImageFilter\&lt; TInputImage \&gt;" alt="" coords="228,149,411,191"/>
+<area shape="rect" id="node5" href="$classanima_1_1DTIScalarMapsImageFilter.html" title="Applies an variance filter to an image. " alt="" coords="225,215,413,256"/>
+<area shape="rect" id="node6" href="$classanima_1_1ExpTensorImageFilter.html" title="anima::ExpTensorImageFilter\l\&lt; TScalarType, NDimensions \&gt;" alt="" coords="220,280,419,321"/>
+<area shape="rect" id="node7" href="$classanima_1_1FDRCorrectImageFilter.html" title="anima::FDRCorrectImageFilter\l\&lt; PixelScalarType \&gt;" alt="" coords="221,345,417,387"/>
+<area shape="rect" id="node8" href="$classanima_1_1GcStremMsLesionsSegmentationFilter.html" title="anima::GcStremMsLesionsSegmentation\lFilter\&lt; TInputImage \&gt;" alt="" coords="192,411,447,452"/>
+<area shape="rect" id="node9" href="$classanima_1_1GeneralizedFAImageFilter.html" title="anima::GeneralizedFAImage\lFilter\&lt; TInputPixelType \&gt;" alt="" coords="227,476,411,517"/>
+<area shape="rect" id="node10" href="$classanima_1_1Graph3DFilter.html" title="Class allowing the decimation of the images if necessary (if 3D graph size causes memory problems)..." alt="" coords="248,541,391,583"/>
+<area shape="rect" id="node11" href="$classanima_1_1GraphCutFilter.html" title="Class performing grah cut segmentation. First the sources and sinks probabilities maps are computed u..." alt="" coords="246,607,393,648"/>
+<area shape="rect" id="node12" href="$classanima_1_1ImageClassifierFilter.html" title="Classify each voxels into one of the given GMM classes. " alt="" coords="229,672,410,713"/>
+<area shape="rect" id="node13" href="$classanima_1_1JacobianMatrixImageFilter.html" title="Compute the Jacobian matrix in real coordinates of a displacement field. " alt="" coords="215,737,423,793"/>
+<area shape="rect" id="node14" href="$classanima_1_1LogTensorImageFilter.html" title="anima::LogTensorImageFilter\l\&lt; TScalarType, NDimensions \&gt;" alt="" coords="220,816,419,857"/>
+<area shape="rect" id="node15" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="201,881,437,923"/>
+<area shape="rect" id="node19" href="$classanima_1_1MCMAverageImagesImageFilter.html" title="anima::MCMAverageImagesImage\lFilter\&lt; TPixelType \&gt;" alt="" coords="210,947,429,988"/>
+<area shape="rect" id="node20" href="$classanima_1_1MeanAndVarianceImagesFilter.html" title="Applies an variance filter to an image. " alt="" coords="201,1012,437,1053"/>
+<area shape="rect" id="node21" href="$classanima_1_1MEstimateSVFImageFilter.html" title="anima::MEstimateSVFImage\lFilter\&lt; TScalarType, NDegrees\lOfFreedom, NDimensions \&gt;" alt="" coords="220,1077,419,1133"/>
+<area shape="rect" id="node22" href="$classanima_1_1NLinksFilter.html" title="Class creating a 3D graph in a graph cut framework. " alt="" coords="252,1156,387,1197"/>
+<area shape="rect" id="node23" href="$classanima_1_1NoiseGeneratorImageFilter.html" title="anima::NoiseGeneratorImage\lFilter\&lt; ImageType \&gt;" alt="" coords="225,1221,413,1263"/>
+<area shape="rect" id="node24" href="$classanima_1_1NonLocalMeansImageFilter.html" title="anima::NonLocalMeansImage\lFilter\&lt; TInputImage \&gt;" alt="" coords="224,1287,415,1328"/>
+<area shape="rect" id="node25" href="$classanima_1_1NonLocalMeansTemporalImageFilter.html" title="anima::NonLocalMeansTemporal\lImageFilter\&lt; TInputImage \&gt;" alt="" coords="215,1352,424,1393"/>
+<area shape="rect" id="node26" href="$classanima_1_1ODFEstimatorImageFilter.html" title="anima::ODFEstimatorImage\lFilter\&lt; TInputPixelType,\l TOutputPixelType \&gt;" alt="" coords="229,1417,409,1473"/>
+<area shape="rect" id="node27" href="$classanima_1_1PyramidImageFilter.html" title="Computes a pyramid of images using the provided resampler to perform resampling. " alt="" coords="216,1496,423,1537"/>
+<area shape="rect" id="node28" href="$classanima_1_1RemoveTouchingBorderFilter.html" title="Class selecting the connected components touching a given mask border. In MRI, external CSF may conta..." alt="" coords="214,1561,425,1603"/>
+<area shape="rect" id="node29" href="$classanima_1_1ResampleImageFilter.html" title="anima::ResampleImageFilter\l\&lt; TInputImage, TOutputImage,\l TInterpolatorPrecisionType \&gt;" alt="" coords="219,1626,419,1682"/>
+<area shape="rect" id="node30" href="$classanima_1_1SimuBlochCoherentGRE.html" title="anima::SimuBlochCoherent\lGRE\&lt; TImage \&gt;" alt="" coords="230,1705,409,1747"/>
+<area shape="rect" id="node31" href="$classanima_1_1SimuBlochGRE.html" title="anima::SimuBlochGRE\l\&lt; TImage \&gt;" alt="" coords="243,1771,396,1812"/>
+<area shape="rect" id="node32" href="$classanima_1_1SimuBlochIRGRE.html" title="anima::SimuBlochIRGRE\l\&lt; TImage \&gt;" alt="" coords="236,1836,403,1877"/>
+<area shape="rect" id="node33" href="$classanima_1_1SimuBlochIRSE.html" title="anima::SimuBlochIRSE\l\&lt; TImage \&gt;" alt="" coords="241,1901,397,1943"/>
+<area shape="rect" id="node34" href="$classanima_1_1SimuBlochSE.html" title="anima::SimuBlochSE\l\&lt; TImage \&gt;" alt="" coords="248,1967,391,2008"/>
+<area shape="rect" id="node35" href="$classanima_1_1SimuBlochSPGRE.html" title="anima::SimuBlochSPGRE\l\&lt; TImage \&gt;" alt="" coords="234,2032,405,2073"/>
+<area shape="rect" id="node36" href="$classanima_1_1StimulatedSpinEchoImageFilter.html" title="anima::StimulatedSpinEcho\lImageFilter\&lt; TImage, TOutputImage \&gt;" alt="" coords="198,2097,441,2139"/>
+<area shape="rect" id="node37" href="$classanima_1_1SVFExponentialImageFilter.html" title="Computes the exponentiation of a stationary velocity field using sclaing and squaring and approximate..." alt="" coords="217,2163,421,2204"/>
+<area shape="rect" id="node38" href="$classanima_1_1SVFLieBracketImageFilter.html" title="Computes the Lie bracket between two fields u and v as expressed by Bossa et al. " alt="" coords="217,2228,421,2269"/>
+<area shape="rect" id="node39" href="$classanima_1_1TLinksFilter.html" title="Class computing the probability maps that are used to create the t&#45;links. " alt="" coords="252,2293,387,2335"/>
+<area shape="rect" id="node40" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; itk::Image\&lt; InputPixel\lScalarType, 3 \&gt;, itk::VectorImage\l\&lt; OutputPixelScalarType, 3 \&gt; \&gt;" alt="" coords="213,2359,425,2429"/>
+<area shape="rect" id="node42" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; itk::Image\&lt; InputPixel\lType, 3 \&gt;, anima::MCMImage\l\&lt; OutputPixelType, 3 \&gt; \&gt;" alt="" coords="222,2453,417,2524"/>
+<area shape="rect" id="node44" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; itk::VectorImage\l\&lt; PixelScalarType, 3 \&gt;, itk\l::Image\&lt; PixelScalarType, 3 \&gt; \&gt;" alt="" coords="217,2569,421,2640"/>
+<area shape="rect" id="node50" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; TImageType, TImageType \&gt;" alt="" coords="207,2752,431,2793"/>
+<area shape="rect" id="node16" href="$classanima_1_1T1RelaxometryEstimationImageFilter.html" title="anima::T1RelaxometryEstimation\lImageFilter\&lt; TInputImage,\l TOutputImage \&gt;" alt="" coords="526,802,735,858"/>
+<area shape="rect" id="node17" href="$classanima_1_1T2EPGRelaxometryEstimationImageFilter.html" title="anima::T2EPGRelaxometryEstimation\lImageFilter\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="495,881,767,923"/>
+<area shape="rect" id="node18" href="$classanima_1_1T2RelaxometryEstimationImageFilter.html" title="anima::T2RelaxometryEstimation\lImageFilter\&lt; TInputImage,\l TOutputImage \&gt;" alt="" coords="526,946,735,1002"/>
+<area shape="rect" id="node41" href="$classanima_1_1DTIEstimationImageFilter.html" title="anima::DTIEstimationImage\lFilter\&lt; InputPixelScalarType,\l OutputPixelScalarType \&gt;" alt="" coords="537,2345,725,2401"/>
+<area shape="rect" id="node43" href="$classanima_1_1MCMEstimatorImageFilter.html" title="anima::MCMEstimatorImage\lFilter\&lt; InputPixelType,\l OutputPixelType \&gt;" alt="" coords="539,2425,723,2481"/>
+<area shape="rect" id="node45" href="$classanima_1_1LocalPatchCovarianceDistanceImageFilter.html" title="anima::LocalPatchCovariance\lDistanceImageFilter\&lt; PixelScalar\lType \&gt;" alt="" coords="524,2505,737,2561"/>
+<area shape="rect" id="node46" href="$classanima_1_1LocalPatchMeanDistanceImageFilter.html" title="anima::LocalPatchMeanDistance\lImageFilter\&lt; PixelScalarType \&gt;" alt="" coords="525,2584,736,2625"/>
+<area shape="rect" id="node47" href="$classanima_1_1NLMeansPatientToGroupComparisonImageFilter.html" title="anima::NLMeansPatientToGroup\lComparisonImageFilter\&lt; PixelScalar\lType \&gt;" alt="" coords="515,2649,746,2705"/>
+<area shape="rect" id="node48" href="$classanima_1_1PatientToGroupComparisonImageFilter.html" title="Implements patient to group comparison as in http://dx.doi.org/10.1007/978&#45;3&#45;540&#45;85988&#45;8_116. " alt="" coords="519,2728,742,2769"/>
+<area shape="rect" id="node49" href="$classanima_1_1PatientToGroupODFComparisonImageFilter.html" title="anima::PatientToGroupODFComparison\lImageFilter\&lt; PixelScalarType \&gt;" alt="" coords="815,2708,1064,2749"/>
+<area shape="rect" id="node51" href="$classanima_1_1OrientedModelBaseResampleImageFilter.html" title="anima::OrientedModelBase\lResampleImageFilter\&lt; TImageType,\l TInterpolatorPrecisionType \&gt;" alt="" coords="515,2833,746,2889"/>
+<area shape="rect" id="node52" href="$classanima_1_1MCMResampleImageFilter.html" title="anima::MCMResampleImageFilter\l\&lt; TImageType, TInterpolatorPrecision\lType \&gt;" alt="" coords="820,2773,1059,2829"/>
+<area shape="rect" id="node53" href="$classanima_1_1ODFResampleImageFilter.html" title="anima::ODFResampleImageFilter\l\&lt; TImageType, TInterpolatorPrecision\lType \&gt;" alt="" coords="820,2853,1059,2909"/>
+<area shape="rect" id="node54" href="$classanima_1_1TensorResampleImageFilter.html" title="anima::TensorResampleImage\lFilter\&lt; TImageType, TInterpolator\lPrecisionType \&gt;" alt="" coords="832,2933,1047,2989"/>
+</map>

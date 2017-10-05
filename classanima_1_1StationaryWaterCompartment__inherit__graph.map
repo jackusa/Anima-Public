@@ -1,0 +1,4 @@
+<map id="anima::StationaryWaterCompartment" name="anima::StationaryWaterCompartment">
+<area shape="rect" id="node2" href="$classanima_1_1BaseIsotropicCompartment.html" title="anima::BaseIsotropicCompartment" alt="" coords="13,155,231,181"/>
+<area shape="rect" id="node3" href="$classanima_1_1BaseCompartment.html" title="anima::BaseCompartment" alt="" coords="37,80,207,107"/>
+</map>

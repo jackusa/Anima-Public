@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classanima_1_1BaseBMRegistrationMethod.html" title="anima::BaseBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="199,149,387,191"/>
+<area shape="rect" id="node7" href="$classanima_1_1BaseProbabilisticTractographyImageFilter.html" title="anima::BaseProbabilistic\lTractographyImageFilter" alt="" coords="211,312,374,353"/>
+<area shape="rect" id="node10" href="$classanima_1_1BaseTractographyImageFilter.html" title="anima::BaseTractographyImage\lFilter" alt="" coords="191,377,394,419"/>
+<area shape="rect" id="node12" href="$classanima_1_1ClassificationStrategy.html" title="anima::ClassificationStrategy\l\&lt; TInputImage, TMaskImage \&gt;" alt="" coords="193,443,392,484"/>
+<area shape="rect" id="node13" href="$classanima_1_1ComputeSolution.html" title="Class computing the 3&#45;class GMM respresenting the NABT, where each Gaussian represents one of the bra..." alt="" coords="197,507,389,563"/>
+<area shape="rect" id="node14" href="$classanima_1_1GaussianEMEstimator.html" title="Gaussian Model estimator Class performing expectation&#45;maximation algorithm. " alt="" coords="193,587,392,628"/>
+<area shape="rect" id="node16" href="$classanima_1_1ModelInitializer.html" title="Gaussian model initializers Model Initializer represents the processes computing a gaussian model tha..." alt="" coords="218,653,367,679"/>
+<area shape="rect" id="node20" href="$classanima_1_1PyramidalBlockMatchingBridge.html" title="anima::PyramidalBlockMatching\lBridge\&lt; ImageDimension \&gt;" alt="" coords="189,704,396,745"/>
+<area shape="rect" id="node21" href="$classanima_1_1PyramidalDenseMCMSVFMatchingBridge.html" title="anima::PyramidalDenseMCMSVFMatching\lBridge\&lt; ImageDimension \&gt;" alt="" coords="160,769,425,811"/>
+<area shape="rect" id="node22" href="$classanima_1_1PyramidalDenseSVFMatchingBridge.html" title="anima::PyramidalDenseSVFMatching\lBridge\&lt; ImageDimension \&gt;" alt="" coords="175,835,410,876"/>
+<area shape="rect" id="node23" href="$classanima_1_1PyramidalDenseTensorSVFMatchingBridge.html" title="anima::PyramidalDenseTensor\lSVFMatchingBridge\&lt; ImageDimension \&gt;" alt="" coords="165,900,420,941"/>
+<area shape="rect" id="node24" href="$classanima_1_1PyramidalDistortionCorrectionBlockMatchingBridge.html" title="anima::PyramidalDistortion\lCorrectionBlockMatchingBridge\l\&lt; ImageDimension \&gt;" alt="" coords="191,965,395,1021"/>
+<area shape="rect" id="node25" href="$classanima_1_1PyramidalSymmetryBridge.html" title="anima::PyramidalSymmetry\lBridge\&lt; PixelType, ScalarType \&gt;" alt="" coords="188,1044,397,1085"/>
+<area shape="rect" id="node26" href="$classanima_1_1PyramidalSymmetryConstrainedRegistrationBridge.html" title="anima::PyramidalSymmetry\lConstrainedRegistrationBridge\l\&lt; ScalarType \&gt;" alt="" coords="195,1109,390,1165"/>
+<area shape="rect" id="node3" href="$classanima_1_1AsymmetricBMRegistrationMethod.html" title="anima::AsymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="491,5,710,47"/>
+<area shape="rect" id="node4" href="$classanima_1_1DistortionCorrectionBMRegistrationMethod.html" title="anima::DistortionCorrection\lBMRegistrationMethod\&lt; TInputImage\lType \&gt;" alt="" coords="482,70,719,126"/>
+<area shape="rect" id="node5" href="$classanima_1_1KissingSymmetricBMRegistrationMethod.html" title="anima::KissingSymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="473,149,728,191"/>
+<area shape="rect" id="node6" href="$classanima_1_1SymmetricBMRegistrationMethod.html" title="anima::SymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="494,215,707,256"/>
+<area shape="rect" id="node8" href="$classanima_1_1DTIProbabilisticTractographyImageFilter.html" title="anima::DTIProbabilisticTractography\lImageFilter" alt="" coords="486,280,715,321"/>
+<area shape="rect" id="node9" href="$classanima_1_1ODFProbabilisticTractographyImageFilter.html" title="anima::ODFProbabilisticTractography\lImageFilter" alt="" coords="483,345,718,387"/>
+<area shape="rect" id="node11" href="$classanima_1_1dtiTractographyImageFilter.html" title="anima::dtiTractographyImage\lFilter" alt="" coords="507,411,695,452"/>
+<area shape="rect" id="node15" href="$classanima_1_1GaussianREMEstimator.html" title="Class performing a robust expectation&#45;maximation (REM) algorithm. Allow finding the 3&#45;classes NABT mo..." alt="" coords="501,537,700,579"/>
+<area shape="rect" id="node17" href="$classanima_1_1AtlasInitializer.html" title="anima::AtlasInitializer\l\&lt; TInputImage, TMaskImage,\l TAtlasImage \&gt;" alt="" coords="505,602,697,658"/>
+<area shape="rect" id="node18" href="$classanima_1_1HierarchicalInitializer.html" title="Class initializing a gaussian mixture with hierarchical information It uses &#39;a priori&#39; knowledge of t..." alt="" coords="501,681,700,723"/>
+<area shape="rect" id="node19" href="$classanima_1_1RandomInitializer.html" title="Class initializing ramdomly a gaussian model. " alt="" coords="519,747,682,774"/>
+</map>

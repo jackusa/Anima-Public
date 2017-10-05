@@ -1,0 +1,5 @@
+<map id="anima::ModelInitializer" name="anima::ModelInitializer">
+<area shape="rect" id="node3" href="$classanima_1_1AtlasInitializer.html" title="anima::AtlasInitializer\l\&lt; TInputImage, TMaskImage,\l TAtlasImage \&gt;" alt="" coords="361,5,553,61"/>
+<area shape="rect" id="node4" href="$classanima_1_1HierarchicalInitializer.html" title="Class initializing a gaussian mixture with hierarchical information It uses &#39;a priori&#39; knowledge of t..." alt="" coords="357,85,556,126"/>
+<area shape="rect" id="node5" href="$classanima_1_1RandomInitializer.html" title="Class initializing ramdomly a gaussian model. " alt="" coords="375,151,538,177"/>
+</map>

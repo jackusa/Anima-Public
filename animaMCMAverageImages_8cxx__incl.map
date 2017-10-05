@@ -1,0 +1,26 @@
+<map id="animaMCMAverageImages.cxx" name="animaMCMAverageImages.cxx">
+<area shape="rect" id="node4" href="$animaMCMAverageImagesImageFilter_8h.html" title="animaMCMAverageImagesImage\lFilter.h" alt="" coords="2633,80,2847,121"/>
+<area shape="rect" id="node22" href="$animaMCMFileReader_8h.html" title="animaMCMFileReader.h" alt="" coords="1276,87,1436,114"/>
+<area shape="rect" id="node47" href="$animaMCMFileWriter_8h.html" title="animaMCMFileWriter.h" alt="" coords="2125,87,2278,114"/>
+<area shape="rect" id="node50" href="$animaMultiCompartmentModelCreator_8h.html" title="animaMultiCompartmentModel\lCreator.h" alt="" coords="753,259,951,300"/>
+<area shape="rect" id="node6" href="$animaMCMImage_8h.html" title="animaMCMImage.h" alt="" coords="2474,177,2609,203"/>
+<area shape="rect" id="node7" href="$animaMultiCompartmentModel_8h.html" title="animaMultiCompartmentModel.h" alt="" coords="2260,348,2468,375"/>
+<area shape="rect" id="node17" href="$animaMCMWeightedAverager_8h.html" title="animaMCMWeightedAverager.h" alt="" coords="3065,266,3268,293"/>
+<area shape="rect" id="node19" href="$animaMCMAverageImagesImageFilter_8hxx.html" title="animaMCMAverageImagesImage\lFilter.hxx" alt="" coords="2633,169,2847,211"/>
+<area shape="rect" id="node16" href="$animaMCMImage_8hxx.html" title="animaMCMImage.hxx" alt="" coords="2479,266,2625,293"/>
+<area shape="rect" id="node8" href="$animaBaseCompartment_8h.html" title="animaBaseCompartment.h" alt="" coords="725,423,899,449"/>
+<area shape="rect" id="node25" href="$animaMCMFileReader_8hxx.html" title="animaMCMFileReader.hxx" alt="" coords="1270,177,1442,203"/>
+<area shape="rect" id="node26" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="1810,266,1993,293"/>
+<area shape="rect" id="node30" href="$animaFreeWaterCompartment_8h.html" title="animaFreeWaterCompartment.h" alt="" coords="1079,266,1284,293"/>
+<area shape="rect" id="node33" href="$animaIsotropicRestrictedWaterCompartment_8h.html" title="animaIsotropicRestricted\lWaterCompartment.h" alt="" coords="1309,259,1473,300"/>
+<area shape="rect" id="node34" href="$animaStationaryWaterCompartment_8h.html" title="animaStationaryWaterCompartment.h" alt="" coords="1497,266,1735,293"/>
+<area shape="rect" id="node35" href="$animaStickCompartment_8h.html" title="animaStickCompartment.h" alt="" coords="554,266,729,293"/>
+<area shape="rect" id="node36" href="$animaZeppelinCompartment_8h.html" title="animaZeppelinCompartment.h" alt="" coords="127,266,321,293"/>
+<area shape="rect" id="node45" href="$animaTensorCompartment_8h.html" title="animaTensorCompartment.h" alt="" coords="345,266,529,293"/>
+<area shape="rect" id="node31" href="$animaBaseIsotropicCompartment_8h.html" title="animaBaseIsotropicCompartment.h" alt="" coords="1279,348,1502,375"/>
+<area shape="rect" id="node37" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="142,348,306,375"/>
+<area shape="rect" id="node38" href="$animaMatrixOperations_8hxx.html" title="animaMatrixOperations.hxx" alt="" coords="136,423,312,449"/>
+<area shape="rect" id="node39" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="239,505,406,531"/>
+<area shape="rect" id="node43" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="5,497,216,539"/>
+<area shape="rect" id="node48" href="$animaMCMFileWriter_8hxx.html" title="animaMCMFileWriter.hxx" alt="" coords="2119,177,2284,203"/>
+</map>

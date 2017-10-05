@@ -1,0 +1,22 @@
+<map id="animaGcStremMsLesionsSegmentation.cxx" name="animaGcStremMsLesionsSegmentation.cxx">
+<area shape="rect" id="node4" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="3262,355,3445,382"/>
+<area shape="rect" id="node8" href="$animaGcStremMsLesionsSegmentationFilter_8h.html" title="animaGcStremMsLesionsSegmentation\lFilter.h" alt="" coords="2587,80,2837,121"/>
+<area shape="rect" id="node9" href="$animaTLinksFilter_8h.html" title="animaTLinksFilter.h" alt="" coords="66,355,201,382"/>
+<area shape="rect" id="node15" href="$animaGraphCutFilter_8h.html" title="animaGraphCutFilter.h" alt="" coords="215,177,366,203"/>
+<area shape="rect" id="node23" href="$animaCheckStructureNeighborFilter_8h.html" title="animaCheckStructureNeighbor\lFilter.h" alt="" coords="1625,259,1823,300"/>
+<area shape="rect" id="node30" href="$animaRemoveTouchingBorderFilter_8h.html" title="animaRemoveTouchingBorder\lFilter.h" alt="" coords="2612,259,2807,300"/>
+<area shape="rect" id="node33" href="$animaComputeMahalanobisImagesFilter_8h.html" title="animaComputeMahalanobisImages\lFilter.h" alt="" coords="3469,259,3691,300"/>
+<area shape="rect" id="node39" href="$animaComputeSolution_8h.html" title="animaComputeSolution.h" alt="" coords="4778,266,4945,293"/>
+<area shape="rect" id="node50" href="$animaGcStremMsLesionsSegmentationFilter_8hxx.html" title="animaGcStremMsLesionsSegmentation\lFilter.hxx" alt="" coords="3045,169,3294,211"/>
+<area shape="rect" id="node14" href="$animaTLinksFilter_8hxx.html" title="animaTLinksFilter.hxx" alt="" coords="5,437,152,464"/>
+<area shape="rect" id="node16" href="$animaGraph3DFilter_8h.html" title="animaGraph3DFilter.h" alt="" coords="477,266,624,293"/>
+<area shape="rect" id="node22" href="$animaGraphCutFilter_8hxx.html" title="animaGraphCutFilter.hxx" alt="" coords="65,266,228,293"/>
+<area shape="rect" id="node17" href="$animaNLinksFilter_8h.html" title="animaNLinksFilter.h" alt="" coords="378,355,513,382"/>
+<area shape="rect" id="node29" href="$animaCheckStructureNeighborFilter_8hxx.html" title="animaCheckStructureNeighbor\lFilter.hxx" alt="" coords="1557,348,1755,389"/>
+<area shape="rect" id="node32" href="$animaRemoveTouchingBorderFilter_8hxx.html" title="animaRemoveTouchingBorder\lFilter.hxx" alt="" coords="2891,348,3085,389"/>
+<area shape="rect" id="node38" href="$animaComputeMahalanobisImagesFilter_8hxx.html" title="animaComputeMahalanobisImages\lFilter.hxx" alt="" coords="3469,348,3691,389"/>
+<area shape="rect" id="node42" href="$animaGaussianREMEstimator_8h.html" title="animaGaussianREMEstimator.h" alt="" coords="5753,437,5956,464"/>
+<area shape="rect" id="node43" href="$animaAtlasInitializer_8h.html" title="animaAtlasInitializer.h" alt="" coords="4788,355,4935,382"/>
+<area shape="rect" id="node44" href="$animaHierarchicalInitializer_8h.html" title="animaHierarchicalInitializer.h" alt="" coords="5580,355,5767,382"/>
+<area shape="rect" id="node45" href="$animaComputeSolution_8hxx.html" title="animaComputeSolution.hxx" alt="" coords="5009,355,5188,382"/>
+</map>

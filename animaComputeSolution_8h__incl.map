@@ -1,0 +1,18 @@
+<map id="animaComputeSolution.h" name="animaComputeSolution.h">
+<area shape="rect" id="node10" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="151,244,334,271"/>
+<area shape="rect" id="node14" href="$animaGaussianREMEstimator_8h.html" title="animaGaussianREMEstimator.h" alt="" coords="853,244,1056,271"/>
+<area shape="rect" id="node19" href="$animaAtlasInitializer_8h.html" title="animaAtlasInitializer.h" alt="" coords="1019,87,1165,114"/>
+<area shape="rect" id="node22" href="$animaHierarchicalInitializer_8h.html" title="animaHierarchicalInitializer.h" alt="" coords="2040,87,2227,114"/>
+<area shape="rect" id="node38" href="$animaComputeSolution_8hxx.html" title="animaComputeSolution.hxx" alt="" coords="3236,87,3415,114"/>
+<area shape="rect" id="node15" href="$animaGaussianEMEstimator_8h.html" title="animaGaussianEMEstimator.h" alt="" coords="1314,326,1507,353"/>
+<area shape="rect" id="node18" href="$animaGaussianREMEstimator_8hxx.html" title="animaGaussianREMEstimator.hxx" alt="" coords="921,326,1135,353"/>
+<area shape="rect" id="node17" href="$animaGaussianEMEstimator_8hxx.html" title="animaGaussianEMEstimator.hxx" alt="" coords="1308,408,1513,435"/>
+<area shape="rect" id="node20" href="$animaModelInitializer_8h.html" title="animaModelInitializer.h" alt="" coords="1649,326,1802,353"/>
+<area shape="rect" id="node21" href="$animaAtlasInitializer_8hxx.html" title="animaAtlasInitializer.hxx" alt="" coords="819,169,978,196"/>
+<area shape="rect" id="node23" href="$animaImageClassifierFilter_8h.html" title="animaImageClassifierFilter.h" alt="" coords="1922,169,2105,196"/>
+<area shape="rect" id="node25" href="$animaRandomInitializer_8h.html" title="animaRandomInitializer.h" alt="" coords="2574,244,2741,271"/>
+<area shape="rect" id="node28" href="$animaClassificationStrategy_8h.html" title="animaClassificationStrategy.h" alt="" coords="2842,169,3033,196"/>
+<area shape="rect" id="node37" href="$animaHierarchicalInitializer_8hxx.html" title="animaHierarchicalInitializer.hxx" alt="" coords="2569,169,2767,196"/>
+<area shape="rect" id="node24" href="$animaImageClassifierFilter_8hxx.html" title="animaImageClassifierFilter.hxx" alt="" coords="1916,244,2111,271"/>
+<area shape="rect" id="node30" href="$animaClassificationStrategy_8hxx.html" title="animaClassificationStrategy.hxx" alt="" coords="2836,244,3039,271"/>
+</map>

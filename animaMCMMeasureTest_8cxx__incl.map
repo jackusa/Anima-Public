@@ -1,0 +1,25 @@
+<map id="animaMCMMeasureTest.cxx" name="animaMCMMeasureTest.cxx">
+<area shape="rect" id="node2" href="$animaMultiCompartmentModel_8h.html" title="animaMultiCompartmentModel.h" alt="" coords="1843,266,2051,293"/>
+<area shape="rect" id="node11" href="$animaMCMBasicMeanSquaresImageToImageMetric_8h.html" title="animaMCMBasicMeanSquares\lImageToImageMetric.h" alt="" coords="980,80,1178,121"/>
+<area shape="rect" id="node27" href="$animaMCMMeanSquaresImageToImageMetric_8h.html" title="animaMCMMeanSquaresImage\lToImageMetric.h" alt="" coords="1203,80,1406,121"/>
+<area shape="rect" id="node30" href="$animaMCMCorrelationImageToImageMetric_8h.html" title="animaMCMCorrelationImage\lToImageMetric.h" alt="" coords="768,80,955,121"/>
+<area shape="rect" id="node33" href="$animaLogRigid3DTransform_8h.html" title="animaLogRigid3DTransform.h" alt="" coords="3414,87,3605,114"/>
+<area shape="rect" id="node39" href="$animaGradientFileReader_8h.html" title="animaGradientFileReader.h" alt="" coords="2959,87,3138,114"/>
+<area shape="rect" id="node44" href="$animaMCMLinearInterpolateImageFunction_8h.html" title="animaMCMLinearInterpolate\lImageFunction.h" alt="" coords="1755,80,1939,121"/>
+<area shape="rect" id="node48" href="$animaMCMFileReader_8h.html" title="animaMCMFileReader.h" alt="" coords="2426,87,2586,114"/>
+<area shape="rect" id="node3" href="$animaBaseCompartment_8h.html" title="animaBaseCompartment.h" alt="" coords="2142,348,2317,375"/>
+<area shape="rect" id="node12" href="$animaBaseOrientedModelImageToImageMetric_8h.html" title="animaBaseOrientedModelImage\lToImageMetric.h" alt="" coords="758,169,965,211"/>
+<area shape="rect" id="node22" href="$animaMCMImage_8h.html" title="animaMCMImage.h" alt="" coords="1041,177,1176,203"/>
+<area shape="rect" id="node25" href="$animaMCMBasicMeanSquaresImageToImageMetric_8hxx.html" title="animaMCMBasicMeanSquares\lImageToImageMetric.hxx" alt="" coords="273,169,472,211"/>
+<area shape="rect" id="node19" href="$animaBaseOrientedModelImageToImageMetric_8hxx.html" title="animaBaseOrientedModelImage\lToImageMetric.hxx" alt="" coords="296,259,502,300"/>
+<area shape="rect" id="node20" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="316,348,482,375"/>
+<area shape="rect" id="node24" href="$animaMCMImage_8hxx.html" title="animaMCMImage.hxx" alt="" coords="1520,266,1667,293"/>
+<area shape="rect" id="node28" href="$animaMCML2DistanceComputer_8h.html" title="animaMCML2DistanceComputer.h" alt="" coords="1200,177,1419,203"/>
+<area shape="rect" id="node29" href="$animaMCMMeanSquaresImageToImageMetric_8hxx.html" title="animaMCMMeanSquaresImage\lToImageMetric.hxx" alt="" coords="519,169,722,211"/>
+<area shape="rect" id="node31" href="$animaMCMCorrelationImageToImageMetric_8hxx.html" title="animaMCMCorrelationImage\lToImageMetric.hxx" alt="" coords="16,169,203,211"/>
+<area shape="rect" id="node35" href="$animaLogRigid3DTransform_8hxx.html" title="animaLogRigid3DTransform.hxx" alt="" coords="3590,177,3792,203"/>
+<area shape="rect" id="node43" href="$animaGradientFileReader_8hxx.html" title="animaGradientFileReader.hxx" alt="" coords="3126,177,3317,203"/>
+<area shape="rect" id="node46" href="$animaMCMWeightedAverager_8h.html" title="animaMCMWeightedAverager.h" alt="" coords="2115,177,2318,203"/>
+<area shape="rect" id="node47" href="$animaMCMLinearInterpolateImageFunction_8hxx.html" title="animaMCMLinearInterpolate\lImageFunction.hxx" alt="" coords="1755,169,1939,211"/>
+<area shape="rect" id="node50" href="$animaMCMFileReader_8hxx.html" title="animaMCMFileReader.hxx" alt="" coords="2593,177,2765,203"/>
+</map>

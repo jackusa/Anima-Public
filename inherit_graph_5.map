@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classanima_1_1BaseCompartment.html" title="anima::BaseCompartment" alt="" coords="163,140,334,167"/>
+<area shape="rect" id="node10" href="$classanima_1_1GaussianMCMVariableProjectionCost.html" title="Class for computing variable projection costs and derivatives. Right now, it is only available for Ga..." alt="" coords="152,191,345,233"/>
+<area shape="rect" id="node11" href="$classanima_1_1MCML2DistanceComputer.html" title="Computes a weighted average of input multi&#45;compartment models. The output model is at the same time g..." alt="" coords="141,257,356,284"/>
+<area shape="rect" id="node12" href="$classanima_1_1MCMWeightedAverager.html" title="Computes a weighted average of input multi&#45;compartment models. The output model is at the same time g..." alt="" coords="149,308,348,335"/>
+<area shape="rect" id="node13" href="$classanima_1_1MultiCompartmentModel.html" title="MultiCompartmentModel: holds several diffusion compartments, ordered by type It also handles weights ..." alt="" coords="147,359,351,385"/>
+<area shape="rect" id="node3" href="$classanima_1_1BaseIsotropicCompartment.html" title="anima::BaseIsotropicCompartment" alt="" coords="404,64,623,91"/>
+<area shape="rect" id="node7" href="$classanima_1_1StickCompartment.html" title="anima::StickCompartment" alt="" coords="428,115,599,141"/>
+<area shape="rect" id="node8" href="$classanima_1_1TensorCompartment.html" title="anima::TensorCompartment" alt="" coords="423,165,603,192"/>
+<area shape="rect" id="node9" href="$classanima_1_1ZeppelinCompartment.html" title="anima::ZeppelinCompartment" alt="" coords="418,216,609,243"/>
+<area shape="rect" id="node4" href="$classanima_1_1FreeWaterCompartment.html" title="anima::FreeWaterCompartment" alt="" coords="687,5,888,32"/>
+<area shape="rect" id="node5" href="$classanima_1_1IsotropicRestrictedWaterCompartment.html" title="anima::IsotropicRestricted\lWaterCompartment" alt="" coords="702,57,873,98"/>
+<area shape="rect" id="node6" href="$classanima_1_1StationaryWaterCompartment.html" title="anima::StationaryWaterCompartment" alt="" coords="671,123,904,149"/>
+</map>

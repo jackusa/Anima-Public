@@ -1,0 +1,18 @@
+<map id="animaImageDataSplitter.hxx" name="animaImageDataSplitter.hxx">
+<area shape="rect" id="node2" href="$animaImageDataSplitter_8h.html" title="animaImageDataSplitter.h" alt="" coords="1037,80,1207,107"/>
+<area shape="rect" id="node3" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8h.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.h" alt="" coords="233,155,437,196"/>
+<area shape="rect" id="node6" href="$animaLowMemPatientToGroupComparisonBridge_8h.html" title="animaLowMemPatientToGroup\lComparisonBridge.h" alt="" coords="686,155,886,196"/>
+<area shape="rect" id="node9" href="$animaLowMemPatientToGroupODFComparisonBridge_8h.html" title="animaLowMemPatientToGroup\lODFComparisonBridge.h" alt="" coords="1022,155,1222,196"/>
+<area shape="rect" id="node12" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8h.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.h" alt="" coords="1359,155,1597,196"/>
+<area shape="rect" id="node15" href="$animaLowMemLocalPatchMeanDistanceBridge_8h.html" title="animaLowMemLocalPatchMean\lDistanceBridge.h" alt="" coords="1884,155,2091,196"/>
+<area shape="rect" id="node4" href="$animaLowMemNLMeansPatientToGroupComparison_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparison.cxx" alt="" coords="5,244,209,285"/>
+<area shape="rect" id="node5" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.cxx" alt="" coords="233,244,437,285"/>
+<area shape="rect" id="node7" href="$animaLowMemPatientToGroupComparison_8cxx.html" title="animaLowMemPatientToGroup\lComparison.cxx" alt="" coords="462,244,662,285"/>
+<area shape="rect" id="node8" href="$animaLowMemPatientToGroupComparisonBridge_8cxx.html" title="animaLowMemPatientToGroup\lComparisonBridge.cxx" alt="" coords="686,244,886,285"/>
+<area shape="rect" id="node10" href="$animaLowMemPatientToGroupODFComparison_8cxx.html" title="animaLowMemPatientToGroup\lODFComparison.cxx" alt="" coords="910,244,1110,285"/>
+<area shape="rect" id="node11" href="$animaLowMemPatientToGroupODFComparisonBridge_8cxx.html" title="animaLowMemPatientToGroup\lODFComparisonBridge.cxx" alt="" coords="1134,244,1334,285"/>
+<area shape="rect" id="node13" href="$animaLowMemLocalPatchCovarianceDistance_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistance.cxx" alt="" coords="1359,244,1597,285"/>
+<area shape="rect" id="node14" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.cxx" alt="" coords="1621,244,1860,285"/>
+<area shape="rect" id="node16" href="$animaLowMemLocalPatchMeanDistance_8cxx.html" title="animaLowMemLocalPatchMean\lDistance.cxx" alt="" coords="1884,244,2091,285"/>
+<area shape="rect" id="node17" href="$animaLowMemLocalPatchMeanDistanceBridge_8cxx.html" title="animaLowMemLocalPatchMean\lDistanceBridge.cxx" alt="" coords="2115,244,2321,285"/>
+</map>

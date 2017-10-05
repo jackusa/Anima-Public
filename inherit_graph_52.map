@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classanima_1_1NonLocalPatchBaseSearcher.html" title="anima::NonLocalPatchBase\lSearcher\&lt; itk::VectorImage\l\&lt; ImageScalarType, DataImageType\l::ImageDimension \&gt; \&gt;" alt="" coords="5,5,237,76"/>
+<area shape="rect" id="node2" href="$classanima_1_1NLMeansVectorPatchSearcher.html" title="anima::NLMeansVectorPatch\lSearcher\&lt; ImageScalarType,\l DataImageType \&gt;" alt="" coords="285,13,476,69"/>
+</map>

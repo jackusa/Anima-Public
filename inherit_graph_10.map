@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classanima_1_1BaseTransformAgregator.html" title="anima::BaseTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="5,136,212,177"/>
+<area shape="rect" id="node2" href="$classanima_1_1BalooSVFTransformAgregator.html" title="anima::BalooSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="277,5,456,47"/>
+<area shape="rect" id="node3" href="$classanima_1_1DenseSVFTransformAgregator.html" title="anima::DenseSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="275,71,458,112"/>
+<area shape="rect" id="node4" href="$classanima_1_1LSWTransformAgregator.html" title="anima::LSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="264,136,469,177"/>
+<area shape="rect" id="node5" href="$classanima_1_1LTSWTransformAgregator.html" title="anima::LTSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="260,201,473,243"/>
+<area shape="rect" id="node6" href="$classanima_1_1MEstTransformAgregator.html" title="anima::MEstTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="263,267,470,308"/>
+</map>
