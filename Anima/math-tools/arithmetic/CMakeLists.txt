@@ -1,4 +1,5 @@
 add_subdirectory(average_images)
 add_subdirectory(dense_transform_arithmetic)
 add_subdirectory(image_arithmetic)
+add_subdirectory(linearTransform2SVF)
 add_subdirectory(linear_transform_arithmetic)
